@@ -4,39 +4,22 @@ Given a string as input. Create a new string in which every occurrence of charac
 Sample Test Case
 
 Input:
-"code"
+2
 
 Output:
-"codde"
+M1
+M2
 Other Test cases
 Test Case 1
 
 Input:
-"dad"
+3
 
 Output:
-"ddadd"
-Test Case 2
+M1
+M2
+M3
 
-Input:
-"dd"
-
-Output:
-"dddd"
-Test Case 3
-
-Input:
-"trisect"
-
-Output:
-"trisect"
-Test Case 4
-
-Input:
-"Doodle"
-
-Output:
-"Dooddle"
 How to attempt?
 For the given task the solution is already provided. Refer the steps below to execute your first code.
 
