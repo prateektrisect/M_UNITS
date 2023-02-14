@@ -9,7 +9,9 @@ Input:
 Output:
 M1
 M2
+
 Other Test cases
+
 Test Case 1
 
 Input:
