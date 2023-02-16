@@ -1,5 +1,5 @@
 Problem Statement
-Given a string as input. Create a new string in which every occurrence of character 'd' is doubled
+Given n as input, print the following pattern.
 
 Sample Test Case
 
