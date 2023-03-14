@@ -36,7 +36,3 @@ For the given problem the system will provide user inputs directly. You don't ne
 5. If you followed the steps then your code will pass test cases
 
 ### View All Hidden Test Cases: Click Here
-
-If you followed the steps then your code will pass test cases
-
-
