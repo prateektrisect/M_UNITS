@@ -1,6 +1,6 @@
 ## Problem Statement
 Given n as input, print the following pattern.
-```
+
 **Sample Test Case**
 ```
 Input:
