@@ -1,51 +1,24 @@
 ## Problem Statement
-Given an array of size n as input. Create a new array containing all elements from 
-input array except zero.
-Print this new array along with its size.
-
+Given n as input, print the following pattern.
 **Sample Test Case**
 ```
 Input:
-4
-1 0 0 22 
+2
 
 Output:
-New array size:2
-1
-22
+M1
+M2
 ```
 ## Other Test cases
 **Test Case 1**
 ```
 Input:
-2 5 
-
-Output:
-New array size:2
-2
-5
-```
-**Test Case 2**
-```
-Input:
-6
-12 10 100 0 19 0
-
-Output:
-New array size:4
-12
-10
-100
-19
-```
-**Test Case 3**
-```
-Input:
 3
-0 0 0
 
 Output:
-New array size:0
+M1
+M2
+M3
 ```
 ## How to attempt?
 Refer the steps below to execute your second code.
