@@ -1,8 +1,8 @@
-Problem Statement
+## Problem Statement
 Given a string as input. Print The Following Pattern.
 
-Sample Test Case
-
+**Sample Test Case**
+```
 Input:
 3
 
@@ -11,7 +11,7 @@ A
 AA
 AAA
 
-Other Test cases
+## Other Test cases
 
 Test Case 1
 
