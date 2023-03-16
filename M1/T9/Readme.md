@@ -1,5 +1,5 @@
 ## Problem Statement
-Given a and b as input, print the follow pattern
+Given a and b as input, print the following pattern
 
 **Sample Test Case**
 ```
