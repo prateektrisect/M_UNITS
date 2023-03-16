@@ -25,7 +25,7 @@ Input:
 a=100, b=50, c=200
 
 Output:
-200
+100
 ```
 **Test Case 3**
 ```
