@@ -1,6 +1,5 @@
 import java.util.Scanner;
 public class Main{
-
   void solution(int n, int x) {
     // Write your code here
     // Remember the output should match exactly
