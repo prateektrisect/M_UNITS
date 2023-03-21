@@ -12,8 +12,8 @@ public class Main{
   public static void main(String[] args){
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    int n = sc.nextLine();
-    int x = sc.nexLine();
+    int n = sc.nextInt();
+    int x = sc.nextInt();
     test.solution(n, x);
   }
 }
