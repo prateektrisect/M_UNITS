@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Main{ 
-  void solution(int a, int b) {
+  void solution(int x, int y) {
     // Write your code here
     // Remember the output should match exactly
 
@@ -11,9 +11,9 @@ public class Main{
   public static void main(String[] args){
     Main test = new Main();
     Scanner sc = new Scanner(System.in);
-    int a = sc.nextInt();
-    int b = sc.nextInt();
-    test.solution(a, b);
+    int x = sc.nextInt();
+    int y = sc.nextInt();
+    test.solution(x, y);
   }
 }
 
