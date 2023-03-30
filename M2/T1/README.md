@@ -20,9 +20,9 @@ For the given problem the system will provide user inputs directly. You don't ne
 
 ### Steps to Run your code:
 
-Copy the source code from Source Code Link.
-Paste in the editor window on the right
-Refer the solution code given below and make necessary changes to your code
-Hit Submit button
-If you followed the steps then your code will pass test cases.
+1. Copy the source code from Source Code Link.
+2. Paste in the editor window on the right
+3. Refer the solution code given below and make necessary changes to your code
+4. Hit Submit button
+5. If you followed the steps then your code will pass test cases.
 ### View All Test Cases: Click here
