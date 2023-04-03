@@ -11,6 +11,24 @@ ABCDEF
 Output:
 BAEF
 ```
+## Other Test cases
+
+**Test Case 1**
+```
+Input:
+BAD CAR
+
+Output:
+AB BR
+```
+**Test Case 2**
+```
+Input:
+I GOT A BIRTHDAY CARD
+
+Output:
+I GOT B AIRTHBY BR
+```
 ## How to attempt?
 
 Refer the steps below to execute your second code.
