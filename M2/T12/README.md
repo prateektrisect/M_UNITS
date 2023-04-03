@@ -10,6 +10,32 @@ Trisect
 Output:
 tRISECT
 ```
+## Other Test cases
+
+**Test Case 1**
+```
+Input:
+Java Master
+
+Output:
+jAVA mASTER
+```
+**Test Case 2**
+```
+Input:
+12 oranges NICE
+
+Output:
+12 ORANGES nice
+```
+**Test Case 3**
+```
+Input:
+INDIA great
+
+Output:
+india GREAT
+```
 ## How to attempt?
 
 Refer the steps below to execute your second code.
