@@ -11,6 +11,26 @@ Output:
 Job
 Ready
 ```
+## Other Test cases
+
+**Test Case 1**
+```
+Input:
+Trisect Institute
+
+Output:
+Trisect
+Institute
+```
+**Test Case 2**
+```
+Input:
+Java Master
+
+Output:
+Java
+Master
+```
 ## How to attempt?
 
 Refer the steps below to execute your second code.
