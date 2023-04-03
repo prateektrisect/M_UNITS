@@ -12,6 +12,35 @@ Output:
 Odd:oRayaa
 Even:JbedJv
 ```
+## Other Test cases
+
+**Test Case 1**
+```
+Input:
+AbCdEf
+
+Output:
+Odd:bdf
+Even:ACE
+```
+**Test Case 2**
+```
+Input:
+A1B2C3D4E
+
+Output:
+Odd:1234
+Even:ABCDE
+```
+**Test Case 3**
+```
+Input:
+Q
+
+Output:
+Odd:
+Even:Q
+```
 ## How to attempt?
 
 Refer the steps below to execute your second code.
