@@ -12,6 +12,24 @@ hello#2$$BD*
 Output:
 Special:4
 ```
+## Other Test cases
+
+**Test Case 1**
+```
+Input:
+#@$%^&:[]=@hbQ
+
+Output:
+Special:11
+```
+**Test Case 2**
+```
+Input:
+Hihi8900
+
+Output:
+Special:0
+```
 ## How to attempt?
 
 Refer the steps below to execute your second code.
