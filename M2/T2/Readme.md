@@ -13,6 +13,24 @@ Input:
 Output:
 1#12#123#
 ```
+## Other Test cases
+
+**Test Case 1**
+```
+Input:
+ABCD
+
+Output:
+A#AB#ABC#ABCD#
+```
+**Test Case 2**
+```
+Input:
+PQ
+
+Output:
+P#PQ#
+```
 ## How to attempt?
 
 Refer the steps below to execute your second code.
