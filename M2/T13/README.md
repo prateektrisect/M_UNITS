@@ -14,6 +14,26 @@ String2="ABDDD"
 Output:
 10
 ```
+## Other Test cases
+
+**Test Case 1**
+```
+Input:
+String1=ABCAD
+String2=BBB
+
+Output:
+-3
+```
+**Test Case 2**
+```
+Input:
+String1=ABCBD
+String2=AB BD
+
+Output:
+16
+```
 ## How to attempt?
 
 Refer the steps below to execute your second code.
