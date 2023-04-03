@@ -10,6 +10,40 @@ Java
 Output:
 No
 ```
+## Other Test cases
+
+**Test Case 1**
+```
+Input:
+dada 
+
+Output:
+Yes
+```
+**Test Case 2**
+```
+Input:
+Indian
+
+Output:
+No
+```
+**Test Case 3**
+```
+Input:
+123123
+
+Output:
+Yes
+```
+**Test Case 4**
+```
+Input:
+ABCDEABCDF
+
+Output:
+No
+```
 ## How to attempt?
 
 Refer the steps below to execute your second code.
