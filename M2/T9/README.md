@@ -13,6 +13,27 @@ Output:
 Job
 Ready
 ```
+## Other Test cases
+
+**Test Case 1**
+```
+Input:
+Going to the market
+
+Output:
+Going
+to
+the
+market
+```
+**Test Case 2**
+```
+Input:
+Hello
+
+Output:
+Hello
+```
 ## How to attempt?
 
 Refer the steps below to execute your second code.
