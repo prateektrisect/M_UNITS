@@ -13,6 +13,24 @@ Hello
 Output:
 hello
 ```
+## Other Test cases
+
+**Test Case 1**
+```
+Input:
+My Name Is
+
+Output:
+my name is
+```
+**Test Case 2**
+```
+Input:
+JAVA
+
+Output:
+java
+```
 ## How to attempt?
 
 Refer the steps below to execute your second code.
