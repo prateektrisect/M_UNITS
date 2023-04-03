@@ -11,6 +11,40 @@ JAVA
 Output:
 VAJA
 ```
+## Other Test cases
+
+**Test Case 1**
+```
+Input:
+TRISECT
+
+Output:
+ECTSTRI
+```
+**Test Case 2**
+```
+Input:
+123456
+
+Output:
+456123
+```
+**Test Case 3**
+```
+Input:
+HELLO
+
+Output:
+LOLHE
+```
+**Test Case 4**
+```
+Input:
+A
+
+Output:
+A
+```
 ## How to attempt?
 
 Refer the steps below to execute your second code.
