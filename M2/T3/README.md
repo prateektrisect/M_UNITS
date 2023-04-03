@@ -11,6 +11,32 @@ Input:
 Output:
 Ab0xxbrt
 ```
+## Other Test cases
+
+**Test Case 1**
+```
+Input:
+a1b9c3d4QW
+
+Output:
+aAbxccdxQW
+```
+**Test Case 2**
+```
+Input:
+1234567890
+
+Output:
+Abcxxxxxx0
+```
+**Test Case 3**
+```
+Input:
+"Hello
+
+Output:
+Hello
+```
 ## How to attempt?
 
 Refer the steps below to execute your second code.
